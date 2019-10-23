@@ -1,0 +1,7 @@
+作業的範例程式好像有錯誤，在第一次存入金額後，後面提領金額可以提到變成負的~~~是不是要變成餘額不足的輸出，而不是過使他直接成為負值呢?
+
+附上測資圖片:
+(資料夾內)
+https://drive.google.com/file/d/1OTUnhTYFCpUUMGkqN3q_ZgI9i3M_mvxV/view?usp=sharing
+
+HW1 為 範例程式

@@ -1,0 +1,7 @@
+D0618990 Hello §Å¶h­õ
+radius :   5, area : 78.5398
+radius :  10, area : 314.1593
+radius :  45, area : 6361.7251
+radius :  89, area : 24884.5547
+radius :  65, area : 13273.2285
+radius : 120, area : 45238.9336

@@ -1,0 +1,10 @@
+No.	Name	Sex	Math	English	Chinese	Average
+10	Eric	M	98	67	85	83.33
+5	Bob	M	75	80	90	81.67
+3	Iris	F	88	98	59	81.67
+7	Mary	F	86	98	56	80.00
+9	Charles	M	95	81	58	78.00
+4	Jack	M	81	86	66	77.67
+6	Eva	F	67	89	74	76.67
+12	Tony	M	56	88	79	74.33
+1	Alice	F	69	51	85	68.33
